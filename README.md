@@ -1,3 +1,5 @@
+homepage: https://vanillafront.com
+
 # vanillafront-1.0.4
 
 배포일: 2025.02.22
