@@ -1,0 +1,16 @@
+{
+	"result": true,
+	"data":{
+		"list":[
+			{"no": 1,  "custName": "홍길동", "age": 20 },
+			{"no": 2,  "custName": "임꺽정", "age": 42 },
+			{"no": 3,  "custName": "이순신", "age": 35 },
+			{"no": 4,  "custName": "강감찬", "age": 55 },
+			{"no": 5,  "custName": "을지문덕", "age": 65 }
+		]
+	},
+	"error":{
+		"code": "",
+		"message": ""
+	}
+}

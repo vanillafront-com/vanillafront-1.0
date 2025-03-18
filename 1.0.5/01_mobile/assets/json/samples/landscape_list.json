@@ -1,0 +1,31 @@
+{
+	"result": true,
+	"status":200,
+	"error": {
+        "message": "age must be a number",
+        "details": [{
+			"errorCode": "001",
+			"errorMessage" : "age must be a number"
+		}]
+    },
+	"data":{
+		"list":[{
+			"key": "0", 
+			"img": "./assets/img/tmpl/landscape0.png",
+			"name": "landscape0"
+		},{
+			"key": "1", 
+			"img": "./assets/img/tmpl/landscape1.png",
+			"name": "landscape1"
+		},{
+			"key": "2", 
+			"img": "./assets/img/tmpl/landscape2.png",
+			"name": "landscape2"
+		},{
+			"key": "3", 
+			"img": "./assets/img/tmpl/landscape3.png",
+			"name": "landscape3"
+		}]
+	},
+	"msg": ""
+}

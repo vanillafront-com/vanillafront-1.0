@@ -1,0 +1,23 @@
+{
+	"result": true,
+	"data":{
+		"list":[
+			{"name": "lee", "subject": "mathimatics", "degree":89},
+			{"name": "lee", "subject": "english", "degree":100},
+			{"name": "lee", "subject": "economics", "degree":92},
+			{"name": "lee", "subject": "scientics", "degree":89},
+			{"name": "kim", "subject": "mathimatics", "degree":0},
+			{"name": "kim", "subject": "english", "degree":20},
+			{"name": "kim", "subject": "economics", "degree":40},
+			{"name": "kim", "subject": "scientics", "degree":60},
+			{"name": "park", "subject": "mathimatics", "degree":100},
+			{"name": "park", "subject": "english", "degree":100},
+			{"name": "park", "subject": "economics", "degree":65},
+			{"name": "park", "subject": "scientics", "degree":89}
+			
+		]
+	},
+	"error":{
+		"message":""
+	}
+}

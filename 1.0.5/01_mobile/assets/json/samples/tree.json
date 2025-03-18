@@ -1,0 +1,35 @@
+{
+	"result": true,
+	"data":{
+		"list":[
+			{
+				"key":"1", "display":"동물", "folder":true,
+				"list":[{
+					"key":"11", "display":"포유류",
+					"list":[{
+						"key":"11", "display":"사자"
+					},{
+						"key":"12", "display":"호랑이"
+					},{
+						"key":"13", "display":"원숭이",
+						"list":[{
+							"key":"131", "display":"여우원숭이"
+						},{
+							"key":"132", "display":"긴꼬리원숭이"
+						}]
+					}]
+				}]
+			},{
+				"key":"2", "display":"식물", "folder":true,
+				"list":[{
+					"key":"21", "display":"나팔꽃"
+				},{
+					"key":"12", "display":"호박꽃"
+				}]
+			}
+		]
+	},
+	"error":{
+		"message":""
+	}
+}
