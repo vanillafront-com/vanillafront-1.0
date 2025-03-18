@@ -1,0 +1,460 @@
+{
+	" tagName":"main",
+	" tags":[{
+		" tagName":"header1",
+		" innerHTML":"<h1>Buttons</h1>",
+"tags":[{
+"tagName":"div",
+"style":{
+"flex":1
+}
+},{
+"tagName":"button",
+"innerHTML":"<i class=\"fa-solid fa-code\"></i> Source Code",
+"class":"btn-link-contrest",
+"onClick":"onShowCode"
+}]
+	 },{   
+		" tagName":"div",
+"style":{
+"display":"block",
+"flexDirection":"column"
+},
+"tags":[{
+"tagName":"h3",
+"innerHTML":"Button"
+},{
+"tagName":"rows",
+"tags":[{
+"tagName":"button",
+"class":"btn",
+"text":"Button",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-back",
+"text":"Button Back",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-dark",
+"text":"Button Dark",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-normal",
+"text":"Button Normal",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-light",
+"text":"Button Light",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-accent",
+"text":"Button Accent",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-contrest",
+"text":"Button Contrest",
+"style":{
+"margin":"5px"
+}
+}]
+		 },{
+"tagName":"h3",
+"innerHTML":"Link Button"
+},{
+"tagName":"rows",
+"tags":[{
+"tagName":"button",
+"class":"btn-link",
+"text":"Button",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-link-dark",
+"text":"Button",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-link-normal",
+"text":"Button",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-link-light",
+"text":"Button Light",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-link-accent",
+"text":"Button Accent",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-link-contrest",
+"text":"Button Contrest",
+"style":{
+"margin":"5px"
+}
+}]
+		 },{
+"tagName":"h3",
+"innerHTML":"Big Button"
+},{
+"tagName":"rows",
+"tags":[{
+"tagName":"button",
+"class":"btn-big",
+"text":"Button",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-big-dark",
+"text":"Button",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-big-normal",
+"text":"Button",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-big-light",
+"text":"Button Light",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-big-accent",
+"text":"Button Accent",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-big-contrest",
+"text":"Button Contrest",
+"style":{
+"margin":"5px"
+}
+}]
+		 },{
+"tagName":"h3",
+"innerHTML":"Large Button"
+},{
+"tagName":"rows",
+"tags":[{
+"tagName":"button",
+"class":"btn-large",
+"text":"Button",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-large-dark",
+"text":"Button Dark",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-large-normal",
+"text":"Button Normal",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-large-light",
+"text":"Button Light",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-large-accent",
+"text":"Button Accent",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-large-contrest",
+"text":"Button Contrest",
+"style":{
+"margin":"5px"
+}
+}]
+		 },{
+"tagName":"h3",
+"innerHTML":"Small Button"
+},{
+"tagName":"rows",
+"tags":[{
+"tagName":"button",
+"class":"btn-small",
+"text":"Button",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-small-dark",
+"text":"Button",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-small-normal",
+"text":"Button",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-small-light",
+"text":"Button Light",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-small-accent",
+"text":"Button Comfort",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-small-contrest",
+"text":"Button Weight",
+"style":{
+"margin":"5px"
+}
+}]
+		 },{
+"tagName":"h3",
+"innerHTML":"Icon Button (fontawesome)"
+},{
+"tagName":"rows",
+"tags":[{
+"tagName":"button",
+"class":"btn",
+"innerHTML": "<i class=\"fa-solid fa-house\"></i> Home",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn",
+"innerHTML": "Home <i class=\"fa-solid fa-house\"></i>",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn",
+"innerHTML": "<i class=\"fa-solid fa-house\"></i><br/>Home",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"innerHTML": "Home<br/><i class=\"fa-solid fa-house\"></i>",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-normal",
+"innerHTML": "<i class=\"fa-solid fa-house\"></i> Home",
+"style":{
+"margin":"5px"
+}
+}]
+		 },{
+"tagName":"h3",
+"innerHTML":"Big or Small Icon Button"
+},{
+"tagName":"rows",
+"style":{
+"itemAlign":"center"
+},
+"tags":[{
+"tagName":"button",
+"class":"btn-small",
+"innerHTML": "<i class=\"fa-solid fa-house fa-2xs\"></i> Home",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-small",
+"innerHTML": "<i class=\"fa-solid fa-house fa-xs\"></i> Home",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn",
+"innerHTML": "<i class=\"fa-solid fa-house fa-sm\"></i> Home",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"innerHTML": "<i class=\"fa-solid fa-house\"></i> Home",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-big",
+"innerHTML": "<i class=\"fa-solid fa-house fa-lg\"></i> Home",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-large",
+"innerHTML": "<i class=\"fa-solid fa-house fa-xl\"></i> Home",
+"style":{
+"margin":"5px"
+}
+},{
+"tagName":"button",
+"class":"btn-large",
+"innerHTML": "<i class=\"fa-solid fa-house fa-2xl\"></i> Home",
+"style":{
+"margin":"5px",
+"height":"60px"
+}
+}]
+		 },{
+"tagName":"h3",
+"innerHTML":"Icon Button for Popup"
+},{
+"tagName":"rows",
+"style":{
+"itemAlign":"center"
+},
+"tags":[{
+"tagName":"button",
+"class":"btn-small",
+"innerHTML": "<i class=\"fa-solid fa-search fa-2xs\"></i>",
+"style":{
+"margin":"5px",
+"padding":"3px"
+}
+},{
+"tagName":"button",
+"class":"btn",
+"innerHTML": "<i class=\"fa-solid fa-search\"></i>",
+"style":{
+"margin":"5px",
+"padding":"4px"
+}
+},{
+"tagName":"button",
+"class":"btn-big",
+"innerHTML": "<i class=\"fa-solid fa-search fa-lg\"></i>",
+"style":{
+"margin":"5px",
+"padding":"6px"
+}
+},{
+"tagName":"button",
+"class":"btn-large",
+"innerHTML": "<i class=\"fa-solid fa-search fa-xl\"></i>",
+"style":{
+"margin":"5px",
+"padding":"8px"
+}
+}]
+		 },{
+"tagName":"h3",
+"innerHTML":"Icon Only"
+},{
+"tagName":"rows",
+"style":{
+"itemAlign":"center"
+},
+"tags":[{
+"tagName":"button",
+"class":"btn-small",
+"innerHTML": "<i class=\"fa-solid fa-search fa-2xs\"></i>",
+"style":{
+"margin":"5px",
+"padding":"3px",
+"border":"transparent",
+"backgroundColor":"transparent"
+}
+},{
+"tagName":"button",
+"class":"btn",
+"innerHTML": "<i class=\"fa-solid fa-search\"></i>",
+"style":{
+"margin":"5px",
+"padding":"4px",
+"border":"transparent",
+"backgroundColor":"transparent"
+}
+},{
+"tagName":"button",
+"class":"btn-big",
+"innerHTML": "<i class=\"fa-solid fa-search fa-lg\"></i>",
+"style":{
+"margin":"5px",
+"padding":"6px",
+"border":"transparent",
+"backgroundColor":"transparent"
+}
+},{
+"tagName":"button",
+"class":"btn-large",
+"innerHTML": "<i class=\"fa-solid fa-search fa-xl\"></i>",
+"style":{
+"margin":"5px",
+"padding":"8px",
+"border":"transparent",
+"backgroundColor":"transparent"
+}
+}]
+		 }]
+	 }]
+ }

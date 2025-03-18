@@ -1,0 +1,9 @@
+{
+	"result": true,
+	"data":{
+		"info":{"custId": "001", "name":"홍길동", "age":32, "hobbyCode":"002", "hobbyName":"테니스"}
+	},
+	"error":{
+		"message":""
+	}
+}

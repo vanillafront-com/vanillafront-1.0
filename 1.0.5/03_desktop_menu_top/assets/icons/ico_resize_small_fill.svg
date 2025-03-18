@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="31.25" y="31.25" width="37.5" height="37.5" rx="7.5" ry="7.5"/>
+  <g>
+    <path class="cls-1" d="M25.25,80c-2.9,0-5.25-2.35-5.25-5.25v-6h-7.5v7.5c0,6.21,5.04,11.25,11.25,11.25h7.5v-7.5h-6Z"/>
+    <circle class="cls-1" cx="31.27" cy="83.75" r="3.75"/>
+    <circle class="cls-1" cx="16.25" cy="68.78" r="3.75"/>
+  </g>
+  <g>
+    <path class="cls-1" d="M74.75,80c2.9,0,5.25-2.35,5.25-5.25v-6h7.5v7.5c0,6.21-5.04,11.25-11.25,11.25h-7.5v-7.5h6Z"/>
+    <circle class="cls-1" cx="68.73" cy="83.75" r="3.75"/>
+    <circle class="cls-1" cx="83.75" cy="68.78" r="3.75"/>
+  </g>
+  <g>
+    <path class="cls-1" d="M25.25,20c-2.9,0-5.25,2.35-5.25,5.25v6h-7.5v-7.5c0-6.21,5.04-11.25,11.25-11.25h7.5v7.5h-6Z"/>
+    <circle class="cls-1" cx="31.27" cy="16.25" r="3.75"/>
+    <circle class="cls-1" cx="16.25" cy="31.22" r="3.75"/>
+  </g>
+  <g>
+    <path class="cls-1" d="M74.75,20c2.9,0,5.25,2.35,5.25,5.25v6h7.5v-7.5c0-6.21-5.04-11.25-11.25-11.25h-7.5v7.5h6Z"/>
+    <circle class="cls-1" cx="68.73" cy="16.25" r="3.75"/>
+    <circle class="cls-1" cx="83.75" cy="31.22" r="3.75"/>
+  </g>
+</svg>
