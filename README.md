@@ -13,7 +13,9 @@ homepage: https://vanillafront.com
 7. RadioGroup 컴포넌트의 차일드 Radio가 크기에 맞게 조정되도록 처리함.
 8. Slider , StarSlider의 경우 배경색 투명으로 조정함.
 9. 윈도우 Resize시 콤보박스 창 닫음
-
+10. inputPopUrl 컴포넌트 추가
+11. comboboxPopUrl 컴포넌트 추가
+12. 7가지 테마로 확대
 
 # vanillafront-1.0.4
 
