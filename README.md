@@ -1,5 +1,20 @@
 homepage: https://vanillafront.com
 
+# vanillafront-1.0.5
+
+배포일: 2025.03.18
+만료일: 제한없음.
+1. 페이징리스트 컴포넌트 추가
+2. Drawer 컴포넌트의 보이기 버튼 (thumbButton)옵션으로 추가함.
+3. Dialog 닫기 옵션 개선. 현재 처리중인 작업을 체크하고 닫도록 개선함.
+4. layout gap-xxs gap-xxxs 추가함.
+5. Avatar등에 사용되는 Icon 사이즈 조정
+6. 아이콘 컴포넌트 Va.I 추가함.
+7. RadioGroup 컴포넌트의 차일드 Radio가 크기에 맞게 조정되도록 처리함.
+8. Slider , StarSlider의 경우 배경색 투명으로 조정함.
+9. 윈도우 Resize시 콤보박스 창 닫음
+
+
 # vanillafront-1.0.4
 
 배포일: 2025.02.22
