@@ -5,6 +5,6 @@ const routerPath = {
 	custlist: {path: '/view/cust/CustList', areas:['main']},
 	custadd: {path: '/view/cust/CustAdd', areas:['main']},
 	custmodify: {path: '/view/cust/CustModify', areas:['main']},
-	itemlist: {path: '/view/item/ItemList', areas:['main']},
+	employeelist: {path: '/view/employee/EmployeeList', areas:['main']},
 }
 Va.setRouterPath(routerPath);

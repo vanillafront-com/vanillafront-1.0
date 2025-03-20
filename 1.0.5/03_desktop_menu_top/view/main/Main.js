@@ -96,7 +96,7 @@ export default class Main extends Va.View{
 					tags:[{
 						tagName:"image" ,
 						shape:"rounded" ,
-						src:"./assets/img/main/logo_white.png" ,
+						src:"./assets/img/logo.png" ,
 						style:{
 							height:"32px" 
 						} 

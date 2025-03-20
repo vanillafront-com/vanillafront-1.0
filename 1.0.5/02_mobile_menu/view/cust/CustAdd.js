@@ -31,7 +31,7 @@ export default class CustAdd extends Va.View{
 					title:'확인',
 					message:'등록했습니다.'
 				}).show(this, ()=>{
-					Va.setRouterUrl('main', 'list');
+					Va.setRouterUrl('main', 'custlist');
 				});				
 			} else {
 				alert(message);

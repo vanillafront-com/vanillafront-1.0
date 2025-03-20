@@ -5364,9 +5364,9 @@ a.va-link.selected {
 }
 .va-drawer .content {
     margin: -0.1rem 0rem;
-    padding-top: 0.1rem;
+    padding-top: var(--sizeSpacingM);
     padding-right: var(--sizeSpacingM);
-    padding-bottom: 0.1rem;
+    padding-bottom: var(--sizeSpacingM);
     padding-left: var(--sizeSpacingM);
     overflow: auto;
     flex: 1;

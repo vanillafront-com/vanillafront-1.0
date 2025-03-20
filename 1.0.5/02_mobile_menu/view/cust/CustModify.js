@@ -47,7 +47,7 @@ export default class CustModify extends Va.View{
 					title:'확인',
 					message:'변경했습니다.'
 				}).show(this, ()=>{
-					Va.setRouterUrl('main', 'list');
+					Va.setRouterUrl('main', 'custlist');
 				});				
 			} else {
 				new Va.Alert({
