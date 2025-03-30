@@ -1,0 +1,34 @@
+{
+	"result": true,
+	"data":{
+		"list":[
+		{
+			"key":"1", "display":"동물", "folder":true,  "age": 1, "degree": 4, "date": "20240202",
+			"list":[{
+				"key":"11", "display":"포유류",  "folder":true,  "age": 7, "degree": 8, "date": "20240302",
+				"list":[{
+					"key":"11", "display":"사자" , "folder":false,  "age": 9, "degree": 3 ,"date": "20240602"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				}]
+			},{
+				"key":"13", "display":"파충류", "folder":true,  "age": 42, "degree": 7 ,"date": "20240321",
+				"list":[{
+					"key":"131", "display":"악어", "folder":false,  "age": 56, "degree": 1 ,"date": "20241112"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				}]
+				
+			}]
+		},{
+			"key":"2", "display":"식물", "folder":true, "age": 3, "degree": 5,"date": "20210131",
+			"list":[{
+				"key":"21", "display":"나팔꽃", "folder":false,  "age": 17, "degree": 3,"date": "20240725"			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			}]
+		}]
+	},
+	"error":{
+		"message":""
+	}
+}

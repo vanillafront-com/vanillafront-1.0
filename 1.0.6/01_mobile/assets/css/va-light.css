@@ -1,0 +1,328 @@
+* {
+    --fontFamilyBase: 'Pretendard-Regular', 'Segoe UI Web (West European)', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif;
+    --fontFamilyMonospace: Consolas, 'Pretendard-Regular', Courier, monospace;
+    --fontFamilyNumeric: Bahnschrift, 'Pretendard-Regular', 'Segoe UI Web (West European)', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif;
+	--underBarVisibility: hidden;
+	--outlineVisibility: visible;
+	--labelSeperator: ':';
+
+	--fontWeightRegular: 400;
+    --fontWeightMedium: 500;
+    --fontWeightSemibold: 600;
+    --fontWeightBold: 700;
+
+
+
+	--sizeBorderXXXS: 0.01rem;
+	--sizeBorderXXS: 0.02rem;
+	--sizeBorderXS: 0.04rem;
+	--sizeBorderSN: 0.05rem;
+	--sizeBorderS: 0.06rem;
+	--sizeBorderMN: 0.08rem;
+	--sizeBorderM: 0.1rem;
+	--sizeBorderLN: 0.15rem;
+	--sizeBorderL: 0.2rem;
+    --sizeBorderXL: 0.3rem;
+    --sizeBorderXXL: 0.4rem;
+	--sizeBorderXXXL: 0.5rem;
+
+	
+	--labelSeperatorMarginRight: 0.2rem;
+	--labelSeperatorMarginLeft: 0.2rem;
+
+	--sizeSpacingNone: 0;
+	--sizeSpacingXXXS: 0.1rem;
+	--sizeSpacingXXS: 0.2rem;
+	--sizeSpacingXS: 0.4rem;
+	--sizeSpacingSN: 0.6rem;
+	--sizeSpacingS: 0.8rem;
+	--sizeSpacingMN: 1.0rem;
+	--sizeSpacingM: 1.2rem;
+	--sizeSpacingLN: 1.4rem;
+	--sizeSpacingL: 1.6rem;
+	--sizeSpacingXL: 2.0rem;
+	--sizeSpacingXXL: 2.4rem;
+	--sizeSpacingXXXL: 3.2rem;
+
+	--sizeSpacingNone: 0;
+	--sizeSpacingXXXS: 0.1rem;
+	--sizeSpacingXXS: 0.2rem;
+	--sizeSpacingXS: 0.4rem;
+	--sizeSpacingSN: 0.6rem;
+	--sizeSpacingS: 0.8rem;
+	--sizeSpacingMN: 1rem;
+	--sizeSpacingM: 1.2rem;
+	--sizeSpacingLN: 1.4rem;
+	--sizeSpacingL: 1.6rem;
+	--sizeSpacingXL: 2.0rem;
+	--sizeSpacingXXL: 2.4rem;
+	--sizeSpacingXXXL: 3.2rem;
+
+    --shadowXXS: 0.2rem 0.2rem 0.2rem rgba(0,0,0,0.2);
+    --shadowXS: 0.4rem 0.4rem 0.4rem rgba(0,0,0,0.2);
+    --shadowSN: 0.6rem 0.6rem 0.6rem rgba(0,0,0,0.2);
+    --shadowS: 0.8rem 0.8rem 0.8rem rgba(0,0,0,0.2);
+	--shadowMN: 1.0rem 1.0rem 1.0rem rgba(0,0,0,0.2);
+    --shadowM: 1.2rem 1.2rem 1.2rem rgba(0, 0, 0, 0.2);
+	--shadowLN: 1.4rem 1.4rem 1.4rem rgba(0,0,0,0.2);
+    --shadowL: 1.6rem 1.6rem 1.6rem rgba(0,0,0,0.2);
+    --shadowXL: 2.0rem 2.0rem 2.0rem rgba(0,0,0,0.2);
+    --shadowXXL: 2.4rem 2.4rem 2.4rem rgba(0,0,0,0.2);
+	--shadowXXXL: 3.2rem 3.2rem 3.2rem rgba(0,0,0,0.2);
+
+	--sizeSpacingNone: 0;
+	--sizeSpacingXXXS: 0.1rem;
+	--sizeSpacingXXS: 0.2rem;
+	--sizeSpacingXS: 0.4rem;
+	--sizeSpacingSN: 0.6rem;
+	--sizeSpacingS: 0.8rem;
+	--sizeSpacingMN: 1.0rem;
+	--sizeSpacingM: 1.2rem;
+	--sizeSpacingLN: 1.4rem;
+	--sizeSpacingL: 1.6rem;
+	--sizeSpacingXL: 2.0rem;
+	--sizeSpacingXXL: 2.4rem;
+	--sizeSpacingXXXL: 3.2rem;
+	--sizeSpacingH: 4.0rem;
+	--sizeSpacingXH: 4.8rem;
+	--sizeSpacingXXH: 5.6rem;
+	--sizeSpacingXXXH: 6.4rem;
+
+	--sizeButtonXS: 1.6rem;
+	--sizeButtonS: 2.4rem;
+	--sizeButtonM: 3.2rem;
+	--sizeButtonL: 4.0rem;
+	--sizeButtonXL: 4.8rem;
+
+	--sizeFieldXS: 1.6rem;
+	--sizeFieldS: 2.4rem;
+	--sizeFieldM: 3.2rem;
+	--sizeFieldL: 4.0rem;
+	--sizeFieldXL: 4.8rem;
+
+	--sizeIconXS: 1.0rem;
+	--sizeIconS: 1.6rem;
+	--sizeIconM: 2.0rem;  
+	--sizeIconL: 2.4rem;
+	--sizeIconXL: 2.8rem;
+	--sizeIconXXL: 3.2rem;
+	--sizeIconXXXL: 3.6rem;
+
+	--sizeSpacingVerticalFieldXS: 0.1rem;
+	--sizeSpacingVerticalFieldS: 0.3rem;
+	--sizeSpacingVerticalFieldM: 0.5rem;
+	--sizeSpacingVerticalFieldL: 0.7rem;
+	--sizeSpacingVerticalFieldXL: 1.2rem;
+	--sizeSpacingHorizontalFieldXS: 1rem;
+	--sizeSpacingHorizontalFieldS: 1.2rem;
+	--sizeSpacingHorizontalFieldM: 1.6rem;
+	--sizeSpacingHorizontalFieldL: 2rem;
+	--sizeSpacingHorizontalFieldXL: 2.4rem;
+
+	--sizeFontXXS: 0.4rem;
+    --sizeFontXS: 0.8rem;
+	--sizeFontSN: 1.0rem;
+    --sizeFontS: 1.2rem;
+	--sizeFontMN: 1.4rem;
+    --sizeFontM: 1.6rem;
+	--sizeFontLN: 1.8rem;
+	--sizeFontL: 2.0rem;
+	--sizeFontXL: 2.4rem;
+	--sizeFontXXL: 2.8rem;
+	--sizeFontXXXL: 3.2rem;
+
+
+	--sizeFontTitleXS: 1.6rem;
+	--sizeFontTitleS: 2.4rem;
+	--sizeFontTitleM: 3.2rem;
+	--sizeFontTitleL: 4.0rem;
+	--sizeFontTitleXL: 4.8rem;
+	--sizeFontTitleXXL: 5.6rem;
+	--sizeFontTitleXXXL: 6.4rem;
+
+	--sizeFieldGapXS: 0.05rem;
+	--sizeFieldGapS: 0.1rem;
+	--sizeFieldGapM: 0.2rem;
+	--sizeFieldGapL: 0.3rem;
+	--sizeFieldGapXL: 0.4rem;
+
+	--sizeGapNone: 0;
+	--sizeGapXXXS: 0.1rem;
+	--sizeGapXXS: 0.2rem;
+	--sizeGapXS: 0.4rem;
+	--sizeGapSN: 0.6rem;
+	--sizeGapS: 0.8rem;
+	--sizeGapMN: 1.0rem;
+	--sizeGapM: 1.2rem;
+	--sizeGapL: 1.6rem;
+	--sizeGapXL: 2.0rem;
+	--sizeGapXXL: 2.4rem;
+	--sizeGapXXXL: 3.2rem;
+
+	--sizeCheckXS: 0.8rem;
+	--sizeCheckS: 1.2rem;
+	--sizeCheckM: 1.6rem;
+	--sizeCheckL: 2.0rem;
+	--sizeCheckXL: 2.4rem;
+
+	--sizeBadgeXS: 1.0rem;
+	--sizeBadgeS: 1.4rem;
+	--sizeBadgeM: 1.8rem;
+	--sizeBadgeL: 2.2rem;
+	--sizeBadgeXL: 2.6rem;
+
+	--sizeCheckMarginXS: 0.3rem;
+	--sizeCheckMarginS: 0.5rem;
+	--sizeCheckMarginM: 0.7rem;
+	--sizeCheckMarginL: 0.9rem;
+	--sizeCheckMarginXL: 1.1rem;
+
+	--sizeRailXS: 0.2rem;
+	--sizeRailS: 0.3rem;
+	--sizeRailM: 0.4rem;
+	--sizeRailL: 0.5rem;
+	--sizeRailXL: 0.6rem;
+
+	--sizeThumbXS: 1.5rem;
+	--sizeThumbS: 1.8rem;
+	--sizeThumbM: 2.0rem;
+	--sizeThumbL: 2.4rem;
+	--sizeThumbXL: 2.7rem;
+
+	--sizeFieldBorderRadiusNone: 0;
+	--sizeFieldBorderRadiusXS: 0.1rem;
+    --sizeFieldBorderRadiusS: 0.2rem;
+	--sizeFieldBorderRadiusMN: 0.3rem;
+    --sizeFieldBorderRadiusM: 0.4rem;
+	--sizeFieldBorderRadiusLN: 0.5rem;
+    --sizeFieldBorderRadiusL: 0.6rem;
+    --sizeFieldBorderRadiusXL: 0.8rem;
+	--sizeFieldBorderRadiusXXL: 1.0rem;
+	--sizeFieldBorderRadiusXXXL: 1.2rem;
+    --sizeFieldBorderRadiusCircular: 1000rem;
+
+	--sizeBorderRadiusNone: 0;
+	--sizeBorderRadiusXXS: 0.2rem;
+	--sizeBorderRadiusXS: 0.4rem;
+	--sizeBorderRadiusSN: 0.6rem;
+    --sizeBorderRadiusS: 0.8rem;
+	--sizeBorderRadiusMN: 1.0rem;
+    --sizeBorderRadiusM: 1.2rem;
+	--sizeBorderRadiusLN: 1.4rem;
+    --sizeBorderRadiusL: 1.6rem;
+    --sizeBorderRadiusXL: 2.0rem;
+	--sizeBorderRadiusXXL: 2.4rem;
+	--sizeBorderRadiusXXXL: 3.2rem;
+    --sizeBorderRadiusCircular: 1000rem;
+
+	--colorFocusLine:  rgba(0, 144, 237, .4) ; 
+	--colorFocusWrapper: #a1a1a1;
+	--colorBorderBottomColor: #616161;
+	--colorWhite: #ffffff;
+	--colorBlack: #000000;
+	--colorDark: #242424;
+
+	--colorForeground: #242424;
+	--colorForegroundPressed: #242424;
+	--colorBackground: #ffffff;
+	--colorBackgroundHover: #e0e0e0;
+	--colorBackgroundPressed: #f5f5f5;
+	--colorStroke: #242424;
+	--colorForeground2: #424242;
+	--colorForeground2Pressed: #242424;
+	--colorBackground2: #fafafa;
+	--colorStroke2: #424242;
+	--colorForeground3: #616161;
+	--colorForeground3Pressed: #424242;
+	--colorBackground3: #f5f5f5;
+	--colorStroke3: #616161;
+	--colorStrokeDisabled: #bdbdbd;
+	--colorDisabled: #f0f0f0;
+	--colorPrimaryForeground: #ffffff;
+	--colorPrimary: #0f6cbd;
+	--colorPrimaryHover: #115ea3;
+	--colorPrimaryPressed: #0c3b5e;
+	--colorPrimarySelected: #0f548c;
+	--colorSecondary:#b4d6fa;
+	--colorSecondaryForeground: #242424;
+	--colorSecondary: #ebf3fc;
+	--colorSecondaryHover: #cfe4fa;
+	--colorSecondaryPressed: #96c6fa;
+	--colorSecondarySelected: #96c6fa;
+	--colorTertiaryForeground: #242424;
+	--colorTertiaryBorder: #a1a1a1;
+	--colorTertiary: #ffffff;
+	--colorTertiaryHover: #f5f5f5;
+	--colorTertiaryPressed: #e0e0e0;
+	--colorNeutralForeground: #242424;
+	--colorNeutralForeground2: #424242;
+	--colorNeutralForeground3: #616161;
+	--colorNeutralForeground4: #707070;
+	--colorNeutralStroke: #a1a1a1;
+	--colorNeutral: #ffffff;
+	--colorNeutral2: #fafafa;
+	--colorNeutral3: #f5f5f5;
+	--colorNeutral4: #f0f0f0;
+	--colorNeutralHover: #f5f5f5;
+	--colorNeutralPressed: #e0e0e0;
+	--colorNeutralSelected: #dcdddd;
+	--colorEmphasisStroke: #242424;
+	--colorSubtleForeground: #424242;
+	--colorSubtle: transparent;
+	--colorSubtleHover: #f5f5f5;
+	--colorSubtlePressed: #e0e0e0;
+	--colorSubtleSelected: #ebebeb;
+	--colorOutlineForeground: #242424;
+	--colorOutlineStroke: #a1a1a1;
+	--colorOutline: transparent;
+	--colorOutlineHover: transparent;
+	--colorOutlinePressed: transparent;
+	--colorOutlineSelected: transparent;
+
+	--colorTransparent: transparent;
+	--colorTransparentHover: transparent;
+	--colorTransparentPressed: transparent;
+	--colorTransparentSelected: transparent;
+	--colorTransparentForeground: #242424;
+	--colorTransparentForegroundHover: #115ea3;
+	--colorTransparentForegroundPressed: #0c3b5e;	
+	--colorTransparentForegroundSelected: #0c3b5e;	
+
+	--colorInvertedForeground: #ffffff;
+	--colorInverted: #292929;
+	--colorInvertedHover: #424242;
+	--colorInvertedPressed: #242424;
+	--colorInvertedSelected: #242424;
+	--colorAccentForeground: #ffffff;
+	--colorAccent: #bc2f32;
+	--colorAccentHover: #751d1f;
+	--colorAccentPressed: #d13438;
+	--colorAccentSelected: #751d1f;
+	--colorGridEditStroke: #c50f1f;
+
+	--colorStatusSuccess: #0e700e;
+	--colorStatusWarning: #bc4b09;
+	--colorStatusDanger: #b10e1c;
+	--colorStatusInfo: #0f6cbd;
+	--colorStatusDanger2: #fdf3f4;
+	--colorStatusDangerStroke: #c50f1f;
+	--colorStatusSuccess2: #f1faf1;
+	--colorStatusSuccessStroke: #9fd89f;
+	--colorStatusWarning2: #fff9f5;
+	--colorStatusWarningStroke: #fdcfb4;
+	--colorStatusInfo2: #cfe4fa;
+	--colorStatusInfoStroke: #0f6cbd;
+	
+	--colorGray: #ebebeb;
+	--colorDarkGray:#e6e6e6;
+	--colorFieldStroke: #a1a1a1;
+	--colorDivStroke: #e6e6e6;
+	--colorLabel: #242424;
+	--colorSubLabel: #616161;
+	--colorHorLine: #ebebeb;
+	--colorActive: #0f6cbd;
+	--colorGridHeaderEditForeground: #0f6cbd;
+	--colorGridHeaderEditForegroundPrimary: #fde300;
+	--colorGridSelected: #ebf3fc;
+	--colorGridHeaderMark: #bc4b09;
+}

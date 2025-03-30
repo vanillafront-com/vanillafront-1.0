@@ -1,0 +1,38 @@
+{
+	"success":true,
+	"result": true,
+	"status":200,
+	"error": {
+        "message": "age must be a number",
+        "details": [{
+			"errorCode": "001",
+			"errorMessage" : "age must be a number"
+		}]
+    },
+	"data":{
+		"list":[
+			{"num":1,  "itemGroupId": "001", "itemGroupName":"품목그룹1", "itemId":"001", "itemName":"품목명1", "color":"red",    "displayOrder":1, "price":20, "amt": 1000,  "memo":"", "createDate": "20230101",
+				"useFlag": true, "useYn": "Y"},
+			{"num":2,  "itemGroupId": "001", "itemGroupName":"품목그룹1", "itemId":"002", "itemName":"품목명2", "color":"yellow", "displayOrder":2, "price":70,"amt": 1000.0001, "memo":"", "createDate": "20230201",
+				"useFlag": false, "useYn": "N"},
+			{"num":3,  "itemGroupId": "001", "itemGroupName":"품목그룹1", "itemId":"003", "itemName":"품목명3", "color":"yellow", "displayOrder":3, "price":50,"amt": 2300,  "memo":"", "createDate": "20230301",
+				"useFlag": false, "useYn":  "N"},
+			{"num":4,  "itemGroupId": "002", "itemGroupName":"품목그룹2", "itemId":"004", "itemName":"품목명4", "color":"yellow", "displayOrder":1, "price":10,"amt": 1000.3, "memo":"", "createDate": "20230401",
+				"useFlag": true, "useYn": "Y"},
+			{"num":5,  "itemGroupId": "002", "itemGroupName":"품목그룹2", "itemId":"005", "itemName":"품목명5", "color":"red",    "displayOrder":1, "price":90,"amt": 22200.5,  "memo":"","createDate": "20230523",
+				"useFlag": true, "useYn": "Y"},
+			{"num":6,  "itemGroupId": "002", "itemGroupName":"품목그룹2", "itemId":"004", "itemName":"품목명4", "color":"yellow", "displayOrder":1, "price":10,"amt": 1000.3, "memo":"", "createDate": "20230401",
+				"useFlag": true, "useYn": "Y"},
+			{"num":7,  "itemGroupId": "002", "itemGroupName":"품목그룹2", "itemId":"005", "itemName":"품목명5", "color":"red",    "displayOrder":1, "price":90,"amt": 22200.5,  "memo":"","createDate": "20230523",
+				"useFlag": true, "useYn": "Y"},
+			{"num":8,  "itemGroupId": "002", "itemGroupName":"품목그룹2", "itemId":"005", "itemName":"품목명5", "color":"red",    "displayOrder":1, "price":90,"amt": 22200.5,  "memo":"","createDate": "20230523",
+				"useFlag": true, "useYn": "Y"},
+			{"num":9,  "itemGroupId": "002", "itemGroupName":"품목그룹2", "itemId":"004", "itemName":"품목명4", "color":"yellow", "displayOrder":1, "price":10,"amt": 1000.3, "memo":"", "createDate": "20230401",
+				"useFlag": true, "useYn": "Y"},
+			{"num":10,  "itemGroupId": "002", "itemGroupName":"품목그룹2", "itemId":"005", "itemName":"품목명5", "color":"red",    "displayOrder":1, "price":90,"amt": 22200.5,  "memo":"","createDate": "20230523",
+				"useFlag": true, "useYn": "Y"}
+		],
+		"totalSize": 5
+	},
+	"msg": ""
+}

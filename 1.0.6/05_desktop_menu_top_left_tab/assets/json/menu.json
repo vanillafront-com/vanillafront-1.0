@@ -1,0 +1,33 @@
+{
+  "result": true,
+  "data":{
+    "list":[{
+		"key":"001", "menuName": "고객",		
+		"list":[{
+			"key":"001-001", "menuName": "고객",		
+			"list":[{
+				"key": "001-001-001", "menuName": "고객목록",  "url": "/view/cust/CustList" 
+			},{
+				"key": "001-001-001", "menuName": "고객추가",  "url": "/view/cust/CustAdd" 
+			}]	
+		},{
+			"key":"001-001", "menuName": "추가메뉴",		
+			"list":[{
+				"key": "001-001-001", "menuName": "추가메뉴1",  "url": "" 
+			},{
+				"key": "001-001-001", "menuName": "추가메뉴2",  "url": "" 
+			}]	
+		}]
+	},{
+		"key":"002", "menuName": "직원",
+		"list":[{
+			"key":"002-001", "menuName": "직원",				
+			"list":[{
+				"key": "002-001-001", "menuName":"직원목록", "url": "/view/employee/EmployeeList" 
+			}]
+		}]
+	}]
+  },
+  "msg": ""
+}
+

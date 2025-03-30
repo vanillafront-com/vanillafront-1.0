@@ -1,0 +1,12 @@
+{
+	"result": true,
+	"data":{
+		"list":[
+			{"date": "20230404", "language": "English" , "degree": "A" },
+			{"date": "20230512", "language": "Deutch" , "degree": "B" }
+		]
+	},
+	"error":{
+		"message":""
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"result": false,
+	"data":{
+		"list":[]
+	},
+	"success": false,
+	"error":{
+		"code": "",
+		"message": "데이터 조회 중 OOO 오류가 발생했습니다."
+	}
+}

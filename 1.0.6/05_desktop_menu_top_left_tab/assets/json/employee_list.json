@@ -1,0 +1,89 @@
+{
+	"result": true,
+	"status":200,
+	"error": {
+        "message": "age must be a number",
+        "details": [{
+			"errorCode": "001",
+			"errorMessage" : "age must be a number"
+		}]
+    },
+	"data":{
+		"list":[{
+			"key": "0", 
+			"img": "./assets/img/tmpl/face0.png",
+			"name": "Alex",
+			"email": "aaa@bbb.com", 
+			"phone": "010-111-1111", 
+			"status": "working",
+			"position": "CEO",
+			"state": "working"
+		},{
+			"key": "1", 
+			"img": "./assets/img/tmpl/face1.png",
+			"name": "Seo",
+			"email": "aaa@bbb.com", 
+			"phone": "010-111-1111", 
+			"status": "working",
+			"position": "Senior Assistant",
+			"state": "working"
+		},{
+			"key": "2", 
+			"img": "./assets/img/tmpl/face2.png",
+			"name": "Suhyun",
+			"email": "aaa@bbb.com", 
+			"phone": "010-111-1111", 
+			"status": "working",
+			"position": "Senior Assistant",
+			"state": "working"
+		},{
+			"key": "3", 
+			"img": "./assets/img/tmpl/face3.png",
+			"name": "Amilee",
+			"email": "aaa@bbb.com", 
+			"phone": "010-111-1111", 
+			"status": "working",
+			"position": "Senior Assistant",
+			"state": "working"
+		},{
+			"key": "4", 
+			"img": "./assets/img/tmpl/face4.png",
+			"name": "Chang",
+			"email": "aaa@bbb.com", 
+			"phone": "010-111-1111", 
+			"status": "working",
+			"position": "Assistant",
+			"state": "working"
+		},{
+			"key": "5", 
+			"img": "./assets/img/tmpl/face5.png",
+			"name": "Paul",
+			"email": "aaa@bbb.com", 
+			"phone": "010-111-1111", 
+			"status": "working",
+			"position": "Senior Manager",
+			"state": "working"
+		},{
+			"key": "6", 
+			"img": "./assets/img/tmpl/face6.png",
+			"name": "Olivia",
+			"email": "aaa@bbb.com", 
+			"phone": "010-111-1111", 
+			"status": "working",
+			"position": "Senior Manager",
+			"state": "working"
+		},{
+			"key": "7", 
+			"img": "./assets/img/tmpl/face7.png",
+			"name": "Peter",
+			"email": "aaa@bbb.com", 
+			"phone": "010-111-1111", 
+			"status": "working",
+			"position": "Assistant",
+			"state": "working"
+		}],
+		"totalSize":8
+	},
+	
+	"msg": ""
+}
