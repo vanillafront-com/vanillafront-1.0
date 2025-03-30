@@ -1,5 +1,16 @@
 homepage: https://vanillafront.com
 
+# vanillafront-1.0.6
+
+배포일: 2025.03.31
+만료일: 제한없음.
+1. 다이나믹 그리드 컴포넌트 추가
+2. starSlider Component 개선
+3. Grid MultiHeader개수 4->7개로 제한 변경
+4. Extention 에디터에서 도움말 팝업으로 변경
+5. Extention Snippet 추가
+
+
 # vanillafront-1.0.5
 
 배포일: 2025.03.18
