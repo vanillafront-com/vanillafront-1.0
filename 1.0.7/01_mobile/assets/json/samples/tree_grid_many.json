@@ -1,0 +1,353 @@
+{
+	"result": true,
+	"data":{
+		"list":[
+		{
+			"key":"1", "display":"동물", "folder":true,  "age": 1, "degree": 4, "date": "20240202",
+			"list":[{
+				"key":"2", "display":"포유류",  "folder":true,  "age": 7, "degree": 8, "date": "20240302",
+				"list":[{
+					"key":"3", "display":"사자" , "folder":false,  "age": 9, "degree": 3 ,"date": "20240602"
+				},{
+					"key":"4", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"5", "display":"늑대", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"6", "display":"스라소니", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"토끼", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"원숭이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"소", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"얼룩말", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"코끼리", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"기린", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"표범", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"족제비", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"개", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"고양이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"쥐", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"제비", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"낙타", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"표범고래", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"물개", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"바다사자", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"물범", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"흰수염고래", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"하마", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"코뿔소", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"물소", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"들개", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"오랑우탄", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"햄스터", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"얼룩말", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"나무늘보", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"캥거루", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"재규어", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"불곰", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"북극곰", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"반달곰", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"팬더", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"순록", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"임팔라", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"오소리", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"사자", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"너구리", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"침팬치", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"긴꼬리원숭이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"사자", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"사자", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"사자", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				},{
+					"key":"12", "display":"호랑이", "folder":false,  "age": 18, "degree": 2,"date": "20240718"
+				}]
+			},{
+				"key":"13", "display":"파충류", "folder":true,  "age": 42, "degree": 7 ,"date": "20240321",
+				"list":[{
+					"key":"131", "display":"악어", "folder":false,  "age": 56, "degree": 1 ,"date": "20241112"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"코브라", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"목도리도마뱀", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"꽃뱀", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"물뱀", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"살뱀", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"살모사", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"아나콘다", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"이구아나", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"방울뱀", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				},{
+					"key":"132", "display":"비단구렁이", "folder":false,  "age": 8, "degree": 0,"date": "20240205"
+				}]
+				
+			}]
+		},{
+			"key":"2", "display":"식물", "folder":true, "age": 3, "degree": 5,"date": "20210131",
+			"list":[{
+				"key":"21", "display":"나팔꽃", "folder":false,  "age": 17, "degree": 3,"date": "20240725"			
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"제비꽃", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"할미꽃", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"호박꽃", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"장미", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"들국화", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"국화", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"튤립", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			},{
+				"key":"12", "display":"민들레", "folder":false,  "age": 23, "degree": 2,"date": "20240307"
+			}]
+		}]
+	},
+	"error":{
+		"message":""
+	}
+}

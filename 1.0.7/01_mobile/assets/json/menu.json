@@ -1,0 +1,42 @@
+{
+  "result": true,
+  "data":{
+    "list":[{
+		"key":"001", "menuName": "대시보드",
+		"list":[{
+			"key": "001-001", "menuName":"대시보드",
+			"list":[{
+				"key": "001-001-001", "menuName": "대시보드",  "routerName": "tmpldashboardbasic", "menuUrl": "/view/tmpl/dashboard/TmplDashboardBasic"
+			}]
+		}]
+	},{
+		"key":"002", "menuName": "인사정보",
+		"list":[{
+			"key": "002-001", "menuName":"인사정보",
+			"list":[{
+				"key": "002-001-001", "menuName": "인사정보조회", "routerName": "tmplpersonal001", "menuUrl": "/view/tmpl/dashboard/TmplPersonal001"
+			},{
+				"key": "002-001-001", "menuName": "인사정보조회2", "routerName": "tmplpersonal002", "menuUrl":"/view/tmpl/dashboard/TmplPersonal002"
+			},{
+				"key": "002-001-001", "menuName": "인사정보조회3", "routerName": "tmplpersonal003", "menuUrl":"/view/tmpl/dashboard/TmplPersonal003"
+			}]
+		},{
+			"key": "002-001", "menuName":"휴가신청",
+			"list":[{
+				"key": "002-001-001", "menuName": "휴가신청", "routerName": "tmplpersonal004", "menuUrl":"/view/tmpl/dashboard/TmplPersonal004"
+			}]
+		}]
+	},{
+		
+		"key":"003", "menuName": "차트",
+		"list":[{
+			"key": "003-001", "menuName":"구글차트",
+			"list":[{
+				"key": "003-001-001", "menuName": "차트", "routerName": "tmplgooglecharts", "menuUrl": "/view/tmpl/googlecharts/TmplGoogleCharts"
+			}]
+		}]
+	}]
+  },
+  "msg": ""
+}
+

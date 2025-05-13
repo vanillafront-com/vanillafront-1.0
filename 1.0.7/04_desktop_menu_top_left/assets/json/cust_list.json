@@ -1,0 +1,14 @@
+{
+	"result": true,
+	"data":{
+		"list":[
+			{"custId": "001", "name":"홍길동", "age":32, "hobbyCode":"002", "hobbyName":"테니스"},
+			{"custId": "002", "name":"임꺽정", "age":43, "hobbyCode":"001", "hobbyName":"축구"},
+			{"custId": "003", "name":"이순신", "age":54, "hobbyCode":"003", "hobbyName":"낚시"}
+		],
+		"totalSize":3
+	},
+	"error":{
+		"message":""
+	}
+}

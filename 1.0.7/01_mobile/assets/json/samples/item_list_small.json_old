@@ -1,0 +1,28 @@
+{
+	"success":true,
+	"result": true,
+	"status":200,
+	"error": {
+        "message": "age must be a number",
+        "details": [{
+			"errorCode": "001",
+			"errorMessage" : "age must be a number"
+		}]
+    },
+	"data":{
+		"list":[
+			{"num":1,  "itemGroupId": "001", "itemGroupName":"품목그룹1", "itemId":"001", "itemName":"품목명1", "color":"red",    "displayOrder":1, "amt": 1000, "useYn":"Y", "memo":"", "createDate": "20230101",
+				"useYn": true},
+			{"num":2,  "itemGroupId": "001", "itemGroupName":"품목그룹1", "itemId":"002", "itemName":"품목명2", "color":"yellow", "displayOrder":2, "amt": 1000.0001, "useYn":"Y", "memo":"", "createDate": "20230201",
+				"useYn": false},
+			{"num":3,  "itemGroupId": "001", "itemGroupName":"품목그룹1", "itemId":"003", "itemName":"품목명3", "color":"yellow", "displayOrder":3, "amt": 2300, "useYn":"Y", "memo":"", "createDate": "20230301",
+				"useYn": false},
+			{"num":4,  "itemGroupId": "001", "itemGroupName":"품목그룹1", "itemId":"004", "itemName":"품목명4", "color":"yellow", "displayOrder":1, "amt": 1000.3, "useYn":"Y", "memo":"", "createDate": "20230401",
+				"useYn": true},
+			{"num":5,  "itemGroupId": "001", "itemGroupName":"품목그룹1", "itemId":"005", "itemName":"품목명5", "color":"red",    "displayOrder":1, "amt": 22200.5, "useYn":"Y", "memo":"","createDate": "20230523",
+				"useYn": true}
+		],
+		"totalSize": 255
+	},
+	"msg": ""
+}

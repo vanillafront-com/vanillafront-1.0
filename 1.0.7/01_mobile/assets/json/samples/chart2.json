@@ -1,0 +1,23 @@
+{
+	"result": true,
+	"data":{
+		"list":[
+			{"date": "2023-01", "value": 56 },
+			{"date": "2023-02", "value": 85 },
+			{"date": "2023-03", "value": 95 },
+			{"date": "2023-04", "value": 55 },
+			{"date": "2023-05", "value": 15 },
+			{"date": "2023-06", "value": 0 },
+			{"date": "2023-07", "value": 25 },
+			{"date": "2023-08", "value": 65 },
+			{"date": "2023-09", "value": 75 },
+			{"date": "2023-10", "value": 120 },
+			{"date": "2023-11", "value": 89 },
+			{"date": "2023-12", "value": 99 },
+			{"date": "2023-01", "value": 70 }
+		]
+	},
+	"error":{
+		"message":""
+	}
+}

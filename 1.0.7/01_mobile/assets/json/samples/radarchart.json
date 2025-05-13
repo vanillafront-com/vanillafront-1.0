@@ -1,0 +1,12 @@
+{
+	"result": true,
+	"data":{
+		"list":[
+			{"date": "2023-01", "value": 20 , "value1": 1, "value2": 2, "value3": 12, "value4": 12, "value5": 3, "value6": 15    },
+			{"date": "2023-02", "value": 130, "value1": 5, "value2": 11, "value3": 22, "value4": 22, "value5": 12, "value6": 12     }
+		]
+	},
+	"error":{
+		"message":""
+	}
+}

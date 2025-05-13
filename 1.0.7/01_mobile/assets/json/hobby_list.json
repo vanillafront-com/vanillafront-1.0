@@ -1,0 +1,15 @@
+{
+	"result": true,
+	"data":{
+		"list":[
+			{"code":"001", "display":"축구"},
+			{"code":"002", "display":"테니스"},
+			{"code":"003", "display":"낚시"},
+			{"code":"004", "display":"야구"},
+			{"code":"005", "display":"등산"}
+		]
+	},
+	"error":{
+		"message":""
+	}
+}

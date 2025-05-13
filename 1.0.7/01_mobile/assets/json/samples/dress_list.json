@@ -1,0 +1,60 @@
+{
+	"result": true,
+	"status":200,
+	"error": {
+        "message": "age must be a number",
+        "details": [{
+			"errorCode": "001",
+			"errorMessage" : "age must be a number"
+		}]
+    },
+	"data":{
+		"list":[{
+			"key": "0", 
+			"image": "./assets/img/tmpl/sweater0.png",
+			"subject": "여성용 셔츠 긴팔 아이스 여름 남방", 
+			"content": "여성용 긴팔 스웨터, 가볍고 통풍 기능이 좋아 봄, 가을까지 좋아요",
+			"price": 35000,
+			"salePrice": 33000,
+			"deliveryPrice": 0,
+			"evaluation": 4, 
+			"point": "최대 1455원 적립",
+			"delivery": "무료배송",
+			"count": 1
+		},{
+			"key": "1", 
+			"image": "./assets/img/tmpl/sweater1.png",
+			"subject": "여자 여름 카라 반발니트 가디건", 
+			"content": "고급진 블라우스로 노란색 계열의 짧은 소매 형태",
+			"price": 32000,
+			"salePrice": 30000,
+			"evaluation": 5, 
+			"point": "최대 2455원 적립",
+			"delivery": "무료배송",
+			"count": 1
+		},{
+			"key": "2", 
+			"image": "./assets/img/tmpl/sweater2.png",
+			"subject": "여성 유아용 드레스", 
+			"content": "하얀 분홍색 계열로 리본이 멋들어진 파스텔 풍 원피스",
+			"price": 28000,
+			"salePrice": 26500,
+			"evaluation": 3, 
+			"point": "최대 2455원 적립",
+			"delivery": "무료배송",
+			"count": 2
+		},{
+			"key": "3", 
+			"image": "./assets/img/tmpl/sweater3.png",
+			"subject": "남성용 여남방", 
+			"content": "티나지 않는 옷으로 자연스럽고 성숙한 맛을 냄",
+			"price": 25000,
+			"salePrice": 23500,
+			"evaluation": 4, 
+			"point": "최대 2490원 적립",
+			"delivery": "무료배송",
+			"count": 2
+		}]
+	},
+	"msg": ""
+}
