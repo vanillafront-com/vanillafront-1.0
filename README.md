@@ -1,5 +1,17 @@
 homepage: https://vanillafront.com
 
+# vanillafront-1.0.7
+
+배포일: 2025.05.13
+만료일: 제한없음.
+1. 다이어그램 에디터 기능 추가 (Community는 제외)
+2. 다이어그램 컴포넌트 추가
+3. Grid Edit 기능 보완
+4. DatePicker 포멧 형태 추가
+5. DatePicker 최소, 최대기간 설정 추가
+6. 차트 폰트 크기 조정
+   
+
 # vanillafront-1.0.6
 
 배포일: 2025.03.31
